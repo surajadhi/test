@@ -2,6 +2,8 @@ str="gvkgle.com"
 str1="consulting firm"
 str2="gvk1"
 
+
+
 print(str[1])
 print(str[0:4])
 print(str[0:4:2])

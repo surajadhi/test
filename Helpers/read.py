@@ -8,6 +8,7 @@ file = open('D:\\eclipse-workspace\\api_framework_coins\\Helpers\\test.txt')
  #   print(line)
 line=file.readline()
   
+  
 For line in file.readlines()
    print(line)  
 file.close()
