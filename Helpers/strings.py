@@ -12,7 +12,7 @@ str3=str.split(".")
 print(str3)
 print(str3[0])
 
-str4=" great "
+str4=" India "
 print(str4.strip())
 print(str4.lstrip())
 print(str4.rstrip())
