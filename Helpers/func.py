@@ -1,7 +1,7 @@
 def GreetMe(name):
     print(name +" Good Morning")
     
-GreetMe("Suraj")
+GreetMe("Suraj1")
 
 
 
